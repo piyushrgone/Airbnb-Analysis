@@ -19,7 +19,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 To clone this repository and install the required dependencies, run the following commands:
 
 ```
-git clone https://github.com/your_username/airbnb-data-analysis.git
+git clone https://github.com/piyushrgone/Airbnb-Analysis.git
 cd airbnb-data-analysis
 pip install -r requirements.txt
 ```
